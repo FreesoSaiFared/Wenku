@@ -1,4 +1,6 @@
-# 开发者文库
+# A cross-platform open-source app that aggregates web articles for local offline reading.
+
+
 
 ![web](./imgs/web.png)
 
@@ -18,25 +20,40 @@ https://github.com/cteams/Wenku/releases
 
 ![win](./imgs/win.png)
 
-## 支持站点
 
-名称 | 地址
-:- | :-
-v2ex - 最新 | https://www.v2ex.com
-v2ex - 最热 | -
-开发者头条 - 今日内容 | https://toutiao.io
-Segmentfault - 日热门 | https://segmentfault.com/hottest
-伯乐在线 - 最新内容 | http://blog.jobbole.com 
-CSDN - 最新推荐 | https://blog.csdn.net
-Github - 今日最热 | https://github.com/explore?since=weekly#trending
-Gitbook - 最新内容 | https://gitbook.cn
-Freebuf - 最新内容 | https://www.freebuf.com
-51CTO - 最新内容 | https://blog.51cto.com
-InfoQ - 7天最热 | https://www.infoq.cn/hotlist?tag=day
-慕课手记 - 推荐内容 | https://www.imooc.com/article
-开源中国 - 最新内容 | https://www.oschina.net
-开源中国 - 职业问答 | https://www.oschina.net/question?catalog=100
-开源中国 - 开源访谈 | https://www.oschina.net/question/topic/osc-intervie
+**Developer Library**
+Web
+
+A cross-platform, open-source app that aggregates web articles for local offline reading.
+
+
+**Supported Sites**
+| Name                    | Address                                       |
+|-------------------------|-----------------------------------------------|
+| v2ex - Latest           | https://www.v2ex.com                          |
+| v2ex - Hottest          | -                                             |
+| Developer Headlines - Today's Content | https://toutiao.io                  |
+| Segmentfault - Daily Hotspots       | https://segmentfault.com/hottest       |
+| Bobo Online - Latest Content         | http://blog.jobbole.com                 |
+| CSDN - Latest Recommendations        | https://blog.csdn.net                    |
+| GitHub - Today's Hottest             | https://github.com/explore?since=weekly#trending |
+| Gitbook - Latest Content             | https://gitbook.cn                       |
+| Freebuf - Latest Content             | https://www.freebuf.com                  |
+| 51CTO - Latest Content               | https://blog.51cto.com                   |
+| InfoQ - 7-Day Hottest                | https://www.infoq.cn/hotlist?tag=day     |
+| Imooc Notes - Recommended Content    | https://www.imooc.com/article            |
+| Open Source China - Latest Content   | https://www.oschina.net                  |
+| Open Source China - Professional Q&A | https://www.oschina.net/question?catalog=100 |
+| Open Source China - Open Source Interviews | https://www.oschina.net/question/topic/osc-intervie |
+
+**About**
+Produced by: C.TEAM
+E-mail: service@c.team
+
+--- 
+
+This translation maintains the structure and the information contained in the original page, reflecting both the utility and scope of the application as well as providing essential links and contact information.
+
 
 ## 关于
 
